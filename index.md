@@ -24,13 +24,14 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 
 1. Sign up for [Piazza](http://piazza.com/icme/summer2021/icme) (class code *icme*). We will be using Piazza to answer questions during the workshop.
 2. You should have received a welcome email with the Zoom link and password.  Please email us (tanishj@stanford.edu) if you haven't.
-3. Familiarize yourself with the schedule and see you Monday August 16th at 8:00 am PCT!
+3. Familiarize yourself with the schedule and see you Monday August 16th at 8:00 am PT!
 
 ## Schedule
 
 #### Monday August 16th
 TBA
-<!-- - Session 1 (8:00 AM to 9:30 AM)
+<!-- 
+- Session 1 (8:00 AM to 9:30 AM)
   - Introduction
   - Current state of the art in deep learning
   - Math review
@@ -43,7 +44,8 @@ TBA
 
 #### Tuesday August 17th
 TBA
-<!-- - Session 3 (8:00 AM to 9:30 AM)
+<!-- 
+- Session 3 (8:00 AM to 9:30 AM)
   - Over-fitting and Under-fitting
   - Convolutional Neural Networks
   - Recurrent Neural Networks
