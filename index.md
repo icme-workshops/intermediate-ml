@@ -10,7 +10,7 @@ _Prerequisites:_ Familiarity of basic concepts from linear algebra, such as vect
 
 ## About the Instructors
 
-![Sherrie Wang](/assets/img/sherrie.jpg){:style="max-width:30%;"}
+![Sherrie Wang](/assets/img/sherrie.png){:style="max-width:30%;"}
 
 Sherrie Wang graduated from Stanford in 2021 with a PhD in Computational and Mathematical Engineering and is now a Ciriacy-Wantrup Postdoctoral Fellow at UC Berkeley. She works on developing machine learning methods for remote sensing applications, especially in settings where ground truth labels are scarce. These methods are then applied to problems in sustainable agriculture and development, such as mapping where crops are grown in developing countries.
 
@@ -28,7 +28,7 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 
 ## Schedule
 
-#### Tuesday August 10th
+#### Monday August 16th
 TBA
 <!-- - Session 1 (8:00 AM to 9:30 AM)
   - Introduction
@@ -41,7 +41,7 @@ TBA
   - The gradient descent algorithm
   - Walkthrough of an example -->
 
-#### Wednesday August 11th
+#### Tuesday August 17th
 TBA
 <!-- - Session 3 (8:00 AM to 9:30 AM)
   - Over-fitting and Under-fitting
