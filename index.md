@@ -16,7 +16,7 @@ Sherrie Wang graduated from Stanford in 2021 with a PhD in Computational and Mat
 
 ![Alexander Ioannidis](/assets/img/alex.png){:style="max-width:30%;"}
 
-Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science. Prior to Stanford he earned his bachelors in Chemistry and Physics from Harvard and a M.Phil from the University of Cambridge. He conducted research for several years on novel superconducting and quantum computing architectures at Northrop Grumman's Advanced Technologies research center. In his free time, he enjoys sailing.
+Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
 
 # Workshop Materials
 
@@ -29,31 +29,20 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 ## Schedule
 
 #### Monday August 16th
-TBA
-<!-- 
+
 - Session 1 (8:00 AM to 9:30 AM)
-  - Introduction
-  - Current state of the art in deep learning
-  - Math review
-  - Architecture of multi-layer neural networks
+  - Introduction: Intermediate Topics in ML
 - Session 2 (9:30 AM to 11:00 AM)
-  - Loss functions
-  - The backpropgation algorithm
-  - The gradient descent algorithm
-  - Walkthrough of an example -->
+  - Transfer Learning
+  - Representation Learning
 
 #### Tuesday August 17th
-TBA
-<!-- 
+
 - Session 3 (8:00 AM to 9:30 AM)
-  - Over-fitting and Under-fitting
-  - Convolutional Neural Networks
-  - Recurrent Neural Networks
+  - Dimensionality Reduction
+  - Variational Autoencoders (VAEs)
 - Session 4 (9:30 AM to 11:00 AM)
-  - Other Architectures
-  - Deep Learning Libraries
-  - Walkthrough of an example
-  - Failures of deep learning -->
+  - Weakly Supervised, Semi-Supervised and Self-Supervised Learning
 
 ## Slides
 
