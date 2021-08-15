@@ -22,8 +22,8 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 
 ## Pre-workshop Checklist
 
-1. Sign up for [Piazza](http://piazza.com/icme/summer2021/icme) (class code *icme*). We will be using Piazza to answer questions during the workshop.
-2. You should have received a welcome email with the Zoom link and password.  Please email us (tanishj@stanford.edu) if you haven't.
+1. Sign up for [Piazza](http://piazza.com/icme/summer2021/icme12) (class code *icme*). We will be using Piazza to answer questions during the workshop.
+2. You should have received a welcome email with the Zoom link and password.  Please email us (tanishj [at] stanford [dot] edu) if you haven't.
 3. Familiarize yourself with the schedule and see you Monday August 16th at 8:00 am PT!
 
 ## Schedule
