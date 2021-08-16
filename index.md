@@ -28,6 +28,7 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 
 - Session 1 (8:00 AM to 9:30 AM) [[slides](/docs/intro.pdf)]
   - Introduction: Intermediate Topics in ML
+  -  Additional resources: Excellent [free textbook](https://www.statlearning.com/) with code examples (SVM example 9.6.2, ROC example 9.6.3); great free Convex Optimization [textbook](https://web.stanford.edu/~boyd/cvxbook/)
 - Session 2 (9:30 AM to 11:00 AM)  [[slides](/docs/transfer-learning_label-generation.pdf)]
   - Transfer Learning
   - Generating Labels for Deep Learning
