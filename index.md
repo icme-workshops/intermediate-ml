@@ -29,8 +29,8 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 - Session 1 (8:00 AM to 9:30 AM)
   - Introduction: Intermediate Topics in ML
 - Session 2 (9:30 AM to 11:00 AM)
-  - Transfer Learning
-  - Generating Labels for Deep Learning
+  - Transfer Learning [slides](/docs/transfer-learning_label-generation.pdf)
+  - Generating Labels for Deep Learning [slides](/docs/transfer-learning_label-generation.pdf)
 
 #### Tuesday August 17th
 
