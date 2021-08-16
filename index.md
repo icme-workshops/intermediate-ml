@@ -6,8 +6,6 @@ layout: default
 
 Through a series of rapid surveys, including guest lectures, we will present an overview of recent topics in deep learning and machine learning with particular relevance for practitioners. Areas will include embeddings and dimensionality reduction, transfer learning, representation learning, weakly supervised / semi-supervised / self-supervised and active learning. This workshop will assume a familiarity with basic concepts from both machine learning and deep learning as taught in the introductory workshops on those topics, but it will not assume a deep statistical background. Prior experience with applying neural networks is highly recommended.
 
-_Prerequisites:_ Familiarity of basic concepts from linear algebra, such as vectors and matrices, as well as calculus concepts, such as differentiation. Familiarity with the python programming language and an ability to use Jupyter notebooks will be helpful for the hands-on sessions.
-
 ## About the Instructors
 
 ![Sherrie Wang](/assets/img/sherrie.png){:style="max-width:30%;"}
