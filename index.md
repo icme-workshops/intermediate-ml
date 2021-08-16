@@ -4,7 +4,7 @@ layout: default
 
 ## Workshop Description
 
-Through a series of rapid surveys, including guest lectures, we will present an overview of recent topics in deep learning and machine learning with particular relevance for practitioners. Areas will include embeddings and dimensionality reduction, transfer learning, representation learning, weakly supervised / semi-supervised / self-supervised and active learning. This workshop will assume a familiarity with basic concepts from both machine learning and deep learning as taught in the introductory workshops on those topics, but it will not assume a deep statistical background. Prior experience with applying neural networks is highly recommended.
+Through a series of rapid surveys, we will present an overview of recent topics in deep learning and machine learning with particular relevance for practitioners. Areas will include embeddings and dimensionality reduction, transfer learning, representation learning, and weakly supervised / semi-supervised / self-supervised learning. This workshop will assume a familiarity with basic concepts from both machine learning and deep learning as taught in the introductory workshops on those topics, but it will not assume a deep statistical background. Prior experience with applying neural networks is highly recommended.
 
 ## About the Instructors
 
