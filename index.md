@@ -45,12 +45,12 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
   - Representation Learning
   - Weakly Supervised, Semi-Supervised and Self-Supervised Learning
 
-## Slides
+<!-- ## Slides
 
 * Session 1 - [slides](/docs/dlworkshop2021_1.pdf)
 * Session 2 - [slides](/docs/dlworkshop2021_2.pdf)
 
-<!-- ## Jupyter Notebooks 
+## Jupyter Notebooks 
 
 Below links should open the notebooks in [Google Collaboratory](https://colab.research.google.com/), after they open you may have to click "Open in Playground" to be able to run code.
 
@@ -58,7 +58,7 @@ Below links should open the notebooks in [Google Collaboratory](https://colab.re
 
 * [TFWalkthrough.ipynb](https://colab.research.google.com/drive/1yGCtmXoN-bvFpOvcwxE5TJ2lu4WSyPAB)
 * [KerasWalkthrough.ipynb](https://colab.research.google.com/drive/1uX27nH7K7UUn0RoQ0mREZ6FSiTv7F4TJ)
-* [TransferLearning.ipynb](https://colab.research.google.com/drive/1QrNPyIalL4_i8aMO6426GV40dk3anPwJ) -->
+* [TransferLearning.ipynb](https://colab.research.google.com/drive/1QrNPyIalL4_i8aMO6426GV40dk3anPwJ) 
 
 
 ## Additional Resources
@@ -84,4 +84,4 @@ Here are some additional resources for various topics:
   - [CS 236 Deep Generative Models](https://deepgenerativemodels.github.io/)
 - Interesting talks on advanced topics
   - Ben Recht - [Training on test set and other heresies](https://www.youtube.com/watch?v=NTz4rJS9BAI)
-  - Aleksander Madry - [A new perspective on Adversarial Perturbations](https://www.youtube.com/watch?v=mUt7w4UoYqM)
+  - Aleksander Madry - [A new perspective on Adversarial Perturbations](https://www.youtube.com/watch?v=mUt7w4UoYqM) -->
