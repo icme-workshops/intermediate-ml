@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Workshop Description
+## Workshop Description
 
 Through a series of rapid surveys, including guest lectures, we will present an overview of recent topics in deep learning and machine learning with particular relevance for practitioners. Areas will include embeddings and dimensionality reduction, transfer learning, representation learning, weakly supervised / semi-supervised / self-supervised and active learning. This workshop will assume a familiarity with basic concepts from both machine learning and deep learning as taught in the introductory workshops on those topics, but it will not assume a deep statistical background. Prior experience with applying neural networks is highly recommended.
 
@@ -15,8 +15,6 @@ Sherrie Wang graduated from Stanford in 2021 with a PhD in Computational and Mat
 ![Alexander Ioannidis](/assets/img/alex.png){:style="max-width:30%;"}
 
 Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
-
-# Workshop Materials
 
 ## Pre-workshop Checklist
 
