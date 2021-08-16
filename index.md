@@ -34,7 +34,7 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
   - Introduction: Intermediate Topics in ML
 - Session 2 (9:30 AM to 11:00 AM)
   - Transfer Learning
-  - Representation Learning
+  - Generating Labels for Deep Learning
 
 #### Tuesday August 17th
 
@@ -42,6 +42,7 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
   - Dimensionality Reduction
   - Variational Autoencoders (VAEs)
 - Session 4 (9:30 AM to 11:00 AM)
+  - Representation Learning
   - Weakly Supervised, Semi-Supervised and Self-Supervised Learning
 
 ## Slides
