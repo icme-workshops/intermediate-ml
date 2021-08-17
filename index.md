@@ -39,8 +39,8 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
   - Dimensionality Reduction
   - Variational Autoencoders (VAEs)
 - Session 4 (9:30 AM to 11:00 AM)
-  - Representation Learning
-  - Weakly Supervised, Semi-Supervised and Self-Supervised Learning
+  - Representation Learning and Self-Supervised Learning
+  - Weakly Supervised Learning
 
 <!-- ## Slides
 
